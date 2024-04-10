@@ -5,6 +5,15 @@ const FeedbackOptionStyles = styled.div`
     display: flex;
     gap: 2rem;
     justify-content: center;
+    button {
+      border: none;
+      padding: 10px 15px;
+      border-radius: 0.5rem;
+      cursor: pointer;
+      background-color: grey;
+      color: white;
+      text-transform: uppercase;
+    }
   }
 `;
 
