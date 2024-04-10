@@ -1,8 +1,8 @@
 import { useState } from "react";
 
-const Notification = ({ message }) => {
-  return <p>{message}</p>;
-};
+// const Notification = ({ message }) => {
+//   return <p>{message}</p>;
+// };
 
 export const FeedbackButtons = () => {
   const [feedback, setFeedback] = useState({ good: 0, neutral: 0, bad: 0 });
