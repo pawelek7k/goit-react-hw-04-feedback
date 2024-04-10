@@ -1,5 +1,11 @@
 import styled from "styled-components";
 
-const SectionStyled = styled.section``;
+const SectionStyled = styled.section`
+  h2 {
+    color: black;
+    letter-spacing: 5px;
+    text-align: center;
+  }
+`;
 
 export default SectionStyled;
