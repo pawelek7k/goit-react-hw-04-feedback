@@ -1,4 +1,20 @@
 #root {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  width: 350px;
+  border: 1px solid rgb(155, 155, 155);
+  width: 30%;
+  margin: 0 auto;
+  margin-top: 3rem;
+  box-shadow: 0px 2px 10px rgba(255, 255, 255, 0.7);
+  padding: 2rem;
+  border-radius: 1rem;
+}
+
+body {
+  background: rgb(11, 11, 14);
+  background: linear-gradient(
+    90deg,
+    rgba(11, 11, 14, 1) 0%,
+    rgba(32, 31, 31, 1) 58%,
+    rgba(41, 56, 59, 1) 100%
+  );
 }

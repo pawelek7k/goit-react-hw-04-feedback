@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 const SectionStyled = styled.section`
   h2 {
-    color: black;
+    color: white;
     letter-spacing: 5px;
     text-align: center;
   }
